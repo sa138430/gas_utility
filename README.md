@@ -8,7 +8,7 @@ A Django-based web application designed to streamline gas utility services by al
 - [Installation Instructions](#installation-instructions)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Key Features
 - **Service Requests:** Customers can submit service requests online, specifying the type of service needed, providing additional details, and attaching files.
@@ -53,9 +53,9 @@ To set up and run the project locally, follow these steps:
    Open your browser and go to http://127.0.0.1:8000/
 
 
-**Usage**
+##Usage
 Access the Django admin interface at /admin/ to manage service requests (login with superuser credentials).
 
 
-**Contributing**
+##Contributing
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request.
