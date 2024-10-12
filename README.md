@@ -26,7 +26,7 @@ A Django-based web application designed to streamline gas utility services by al
 To set up and run the project locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/sa138430/gas_utility.git
+   git clone https://github.com/username/gas_utility.git
    cd gas_utility
 
 2. Create a virtual environment:
@@ -53,9 +53,9 @@ To set up and run the project locally, follow these steps:
    Open your browser and go to http://127.0.0.1:8000/
 
 
-##Usage
+## Usage
 Access the Django admin interface at /admin/ to manage service requests (login with superuser credentials).
 
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request.
