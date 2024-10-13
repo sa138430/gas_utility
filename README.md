@@ -9,7 +9,7 @@ A Django-based web application designed to streamline gas utility services by al
 - [Installation Instructions](#installation-instructions)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Key Features
 - **Service Requests:** Customers can submit service requests online, specifying the type of service needed, providing additional details, and attaching files.
